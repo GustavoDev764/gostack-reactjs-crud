@@ -1,9 +1,3 @@
-<h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src="./bethehero.png" width="200px" />
-</h1>
-
-<br>
-
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
